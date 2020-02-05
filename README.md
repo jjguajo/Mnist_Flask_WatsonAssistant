@@ -22,7 +22,7 @@ Application: Chatbot that classify hardwritten digits using Keras for training a
 
 1. Clone intent classification project in a local directory.
 
-git clone https://github.com/jjguajo/Mnist_Flask_WatsonAssistant
+git clone https://github.com/jjguajo/Mnist_Flask_WatsonAssistant.git
 
 2. Run mnistTrain.ipynb
 3. Navigate to URL http://127.0.0.1:5000/
