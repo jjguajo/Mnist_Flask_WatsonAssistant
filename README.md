@@ -24,6 +24,9 @@ Application: Chatbot that classify hardwritten digits using Keras for training a
 
 git clone https://github.com/jjguajo/Mnist_Flask_WatsonAssistant
 
+2. Run mnistTrain.ipynb
+3. Navigate to URL http://127.0.0.1:5000/
+4. Run predict_flask.ipynb and see watson response
 
 
 
