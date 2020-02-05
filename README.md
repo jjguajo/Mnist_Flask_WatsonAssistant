@@ -5,11 +5,11 @@ Application: Chatbot that classify hardwritten digits using Keras for training a
 
 ## Prerequisites
 
-tensorflow==1.13.1
-numpy==1.16.2
-Flask==1.0.3
-Keras==2.2.4
-Pillow==6.2.0
+* tensorflow==1.13.1
+* numpy==1.16.2
+* Flask==1.0.3
+* Keras==2.2.4
+* Pillow==6.2.0
 
 
 
