@@ -23,5 +23,9 @@ Application: Chatbot that classify hardwritten digits using Keras for training a
 1. Clone intent classification project in a local directory.
 
 
+git clone https://github.com/jjguajo/Mnist_Flask_WatsonAssistant
+
+
+
 
 
