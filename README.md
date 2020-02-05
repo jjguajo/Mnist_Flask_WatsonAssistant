@@ -16,6 +16,11 @@ Application: Chatbot that classify hardwritten digits using Keras for training a
 
 1. mnistTrain.ipynb: This script contains the procedure for the train of the convolutional neural networks (MNIST) using keras
 2. predict_flask.ipynb: This contains the Flask APIs to deploy the prediction on Watson Assistant for the recognition of hardwritten digits. 
+3. templates: This folder contains the HTML template to allow user to upload the image and displays the predicted intent.
+
+## Running the project
+
+1. Clone intent classification project in a local directory.
 
 
 
